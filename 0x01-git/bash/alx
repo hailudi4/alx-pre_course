@@ -1,0 +1,9 @@
+cat > alx
+#!/bin/bash
+cat alx
+#!/bin/bash
+cat school
+ls
+root@f1a991e3fbd4:~/alx-pre_course/0x01-git/bash# git add .
+git commit -m “Starting to code today, so cool”
+git push
